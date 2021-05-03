@@ -1,0 +1,6 @@
+
+Bivariate(
+	Y( :CI ),
+	X( :M% ),
+	Fit Line( {Plot Residuals( 1 ), Line Color( {212, 73, 88} )} )
+);
